@@ -1,3 +1,3 @@
-![demo](/public/demo.gif)I
+![demo](/public/demo.gif)
 
-nspired by this [CodePen](https://codepen.io/Hyperplexed/pen/wvmvqmx).
+Inspired by this [CodePen](https://codepen.io/Hyperplexed/pen/wvmvqmx).
